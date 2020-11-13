@@ -1,2 +1,5 @@
 this is my sample 2 file
 Updates are made from Learning Branch
+
+Update from command line
+
